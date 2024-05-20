@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Nicolas Juan Coronel'
+landing-title: 'Nicolas Juan Coronel'
 description: null
 image: null
 author: null
