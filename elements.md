@@ -18,10 +18,7 @@ nav-menu: true
 <!-- Content -->
 <h2 id="content">As a Pro Rugby Player</h2>
 <p>Throughout my international career as a professional rugby player, I have gained valuable skills that extend beyond the playing field. This journey has allowed me to become multilingual, fostering the ability to communicate effectively in three different languages. 
-
-Leading and collaborating with diverse teammates has honed my leadership skills, equipping me to navigate complex situations and inspire others.
-
-As a professional athlete, I have faced a variety of challenges, including injuries and the pressure to perform consistently.  Overcoming these obstacles has instilled in me resilience and a strong work ethic. (This highlights your ability to overcome challenges and commitment to your profession.)</p>
+</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Leadership</h3>
