@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Life
-image: assets/images/pic01.jpg
+image: assets/images/SEVEN-volando-transformed.png
 nav-menu: true
 ---
 
@@ -16,16 +16,20 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">As a Pro Rugby Player</h2>
+<p>Throughout my international career as a professional rugby player, I have gained valuable skills that extend beyond the playing field. This journey has allowed me to become multilingual, fostering the ability to communicate effectively in three different languages. 
+
+Leading and collaborating with diverse teammates has honed my leadership skills, equipping me to navigate complex situations and inspire others.
+
+As a professional athlete, I have faced a variety of challenges, including injuries and the pressure to perform consistently.  Overcoming these obstacles has instilled in me resilience and a strong work ethic. (This highlights your ability to overcome challenges and commitment to your profession.)</p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Leadership</h3>
+		<p>Leading and collaborating with diverse teammates has honed my leadership skills, equipping me to navigate complex situations and inspire others.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>Overcome Challenges</h3>
+		<p>As a professional athlete, I have faced a variety of challenges, including injuries and the pressure to perform consistently.  Overcoming these obstacles has instilled in me resilience and a strong work ethic. </p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
